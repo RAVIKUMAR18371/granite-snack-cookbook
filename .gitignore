@@ -1,5 +1,4 @@
 .idea
-.env
 .venv
 ibm_granite_community.egg-info/
 ibm_granite_community/__pycache__/
@@ -7,3 +6,5 @@ build/
 .ipynb_checkpoints/
 log.txt
 .litellm_cache
+config.bat
+node_modules

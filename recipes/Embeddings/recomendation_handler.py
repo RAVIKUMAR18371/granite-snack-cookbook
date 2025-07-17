@@ -21,6 +21,10 @@
 Python lib to recommend prompts.
 """
 
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 __author__ = "Vagner Santana, Melina Alberio, Cassia Sanctos and Tiago Machado"
 __copyright__ = "IBM Corporation 2024"
 __credits__ = ["Vagner Santana, Melina Alberio, Cassia Sanctos, Tiago Machado"]
